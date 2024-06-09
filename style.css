@@ -1,0 +1,31 @@
+* {
+  margin: 10px;
+  padding: 5px;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header, footer {
+  background-color: lightgreen;
+  color: green;
+  border: 2px solid black;
+  border-radius: 1em;
+  box-shadow: 0 5px 5px 0 black;
+  text-align: center;
+}
+
+hr {
+  background-color: green;
+  margin: 0px;
+  border-radius: .5em;
+  box-shadow: 0 5px 5px 0 black;
+}
+
+footer {
+  margin-bottom: 10px;
+  /* position: absolute; */
+}
+
+main {
+  color: blue;
+}
